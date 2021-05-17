@@ -4,3 +4,4 @@ C:\curso\FB-react\src\components\navigation\navigation-container.js	FERNANDO BAU
 C:\curso\FB-react\src\components\portfolio\portfolio-form.js	(POST) https://baura.devcamp.space/portfolio/portfolio_items
 C:\curso\FB-react\static>index.html	Título de la Pestaña
 C:\curso\FB-react\static>favicon.ico	icono de la pestaña
+C:\curso\FB-react\src\components\pages\about.js	 import profilePicture from "../../../static/assets/images/bio/Foto_Perfil_Fer.jpg";
